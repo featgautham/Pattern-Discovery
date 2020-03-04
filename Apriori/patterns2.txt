@@ -1,0 +1,101 @@
+874:Pubs
+1442:Fitness & Instruction
+2415:American (Traditional);Restaurants
+823:General Dentistry;Health & Medical
+2421:Nightlife;Bars;Restaurants
+818:Bars;Sports Bars
+1430:Hotels & Travel;Hotels
+3078:Fashion;Shopping
+798:Sushi Bars
+823:General Dentistry
+870:Pet Services
+1424:Real Estate
+1716:Auto Repair;Automotive
+1150:Specialty Food;Food
+1195:Dentists;Health & Medical
+2091:Hair Salons;Beauty & Spas
+1586:Home & Garden
+1593:American (New);Restaurants
+774:Fast Food;Burgers;Restaurants
+1002:Cafes
+818:Nightlife;Bars;Sports Bars
+874:Pubs;Nightlife;Bars
+2515:Restaurants;Mexican
+2531:Nightlife;Restaurants
+1848:Italian
+1424:Grocery
+818:Nightlife;Sports Bars
+1430:Hotels;Event Planning & Services
+2851:Fast Food;Restaurants
+3078:Fashion
+848:Japanese
+823:Dentists;General Dentistry
+1593:American (New)
+4208:Automotive
+1629:Chinese
+875:Financial Services
+1430:Hotels;Hotels & Travel;Event Planning & Services
+1025:Professional Services
+874:Pubs;Bars
+2199:Coffee & Tea
+1774:Burgers
+1774:Burgers;Restaurants
+2495:Hotels & Travel
+1115:Bakeries
+1629:Chinese;Restaurants
+798:Sushi Bars;Restaurants
+1369:Breakfast & Brunch
+848:Restaurants;Japanese
+2975:Event Planning & Services
+1018:Ice Cream & Frozen Yogurt
+1150:Specialty Food
+1138:Women's Clothing
+1115:Bakeries;Food
+1138:Women's Clothing;Shopping
+1369:Breakfast & Brunch;Restaurants
+1586:Home & Garden;Shopping
+1195:Dentists
+25068:Restaurants
+1442:Active Life;Fitness & Instruction
+4327:Nightlife;Bars
+2091:Hair Salons
+1424:Food;Grocery
+1138:Women's Clothing;Fashion
+823:Dentists;General Dentistry;Health & Medical
+1716:Auto Repair
+2421:Bars;Restaurants
+4328:Bars
+1424:Real Estate;Home Services
+1667:Nail Salons;Beauty & Spas
+2657:Pizza;Restaurants
+818:Sports Bars
+1694:Doctors
+2199:Coffee & Tea;Food
+4785:Home Services
+1667:Nail Salons
+2271:Arts & Entertainment
+2657:Pizza
+2851:Fast Food
+6583:Beauty & Spas
+3468:Local Services
+1000:Cafes;Restaurants
+1848:Restaurants;Italian
+2364:Sandwiches;Restaurants
+1497:Pets
+2416:American (Traditional)
+1430:Hotels
+2099:Food;Restaurants
+9250:Food
+5120:Health & Medical
+874:Pubs;Nightlife
+3103:Active Life
+5087:Nightlife
+11233:Shopping
+870:Pets;Pet Services
+1138:Women's Clothing;Fashion;Shopping
+774:Fast Food;Burgers
+1018:Food;Ice Cream & Frozen Yogurt
+2515:Mexican
+1694:Doctors;Health & Medical
+1471:Hotels & Travel;Event Planning & Services
+2364:Sandwiches
